@@ -1,3 +1,15 @@
+### 4.3.0 (2020-06-26)
+
+##### New Features
+
+* **compras:**
+  *  nueva funcionalidad ([a6413ce2](https://github.com/richirm/CHANGELOG/commit/a6413ce248d3d99e308a70b05cbbc4d0db242056))
+  *  agrega nueva seccion ([18a66d1c](https://github.com/richirm/CHANGELOG/commit/18a66d1c33c0d6c98be784109fc4ee74f2730e3e))
+
+##### Bug Fixes
+
+* **compras:**  correccion de estilos ([38749cdc](https://github.com/richirm/CHANGELOG/commit/38749cdcbff8fbf4f5e49738adea8995ec209cd9))
+
 ### 4.2.0 (2020-06-26)
 
 ##### New Features
