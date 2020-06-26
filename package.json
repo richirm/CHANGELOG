@@ -4,7 +4,10 @@
   "description": "Ejemplo repositorio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release:major": "bash scripts/changelog_major.sh",
+    "release:minor": "bash scripts/changelog_minor.sh",
+    "release:patch": "bash scripts/changelog_patch.sh"
   },
   "repository": {
     "type": "git",
