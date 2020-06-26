@@ -4,6 +4,16 @@
 
 *  nuevo proyecto ([c93bfc42](https://github.com/richirm/CHANGELOG/commit/c93bfc42761b5f6749cb5e1ad08a7821c54c4c4c))
 
+##### Bug Fixes
+
+*  config changelog ([4ab2853b](https://github.com/richirm/CHANGELOG/commit/4ab2853bf65e0842d994c12f19cd9cc683976553))
+
+## 2.0.0 (2020-06-26)
+
+##### New Features
+
+*  nuevo proyecto ([c93bfc42](https://github.com/richirm/CHANGELOG/commit/c93bfc42761b5f6749cb5e1ad08a7821c54c4c4c))
+
 ## 1.0.0 (2020-06-25)
 
 ##### Breaking Changes
