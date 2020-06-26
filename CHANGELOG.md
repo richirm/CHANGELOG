@@ -1,3 +1,15 @@
+### 4.2.0 (2020-06-26)
+
+##### New Features
+
+* **ventas:**  nueva seccion ([99592282](https://github.com/richirm/CHANGELOG/commit/995922824a425baa276944d88017d272e3a804a7))
+
+##### Bug Fixes
+
+* **compras:**
+  *  corrige calculo ([99abf57c](https://github.com/richirm/CHANGELOG/commit/99abf57c24c47250cf0f9b43b876289974340559))
+  *  cambio de color ([46726f6e](https://github.com/richirm/CHANGELOG/commit/46726f6e9578510927685c395e4ac526a327b6c2))
+
 ### 4.1.0 (2020-06-26)
 
 ##### New Features
