@@ -1,3 +1,14 @@
+### 4.1.0 (2020-06-26)
+
+##### New Features
+
+*  calcular totales ([cf8403f4](https://github.com/richirm/CHANGELOG/commit/cf8403f4e4ff711427223b07f1058ec0277180ca))
+*  nuevo estilo para web ([0f88291f](https://github.com/richirm/CHANGELOG/commit/0f88291fdd68473594f6cf95326d47f5e8a52690))
+
+##### Bug Fixes
+
+*  re hubicacion del index ([651cb387](https://github.com/richirm/CHANGELOG/commit/651cb387df2300e0ef2e26a830246706d6a4650d))
+
 ## 4.0.0 (2020-06-26)
 
 ##### New Features
